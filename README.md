@@ -1,4 +1,4 @@
-# Olá, sou o Alexandre. 👋
+# Olá, sou o Alexandre. 
 
 ### Futuro Desenvolvedor
 
