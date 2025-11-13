@@ -5,15 +5,15 @@
 ---
 
 **Foco:**
-* **Atualmente em:** [Estudando novidades na tecnologia]
-* **Interesses:** [Possuo interesse em desenvolvimento Back-end e criação de algoritmos]
-* **Aprendendo:** [Java Script e Python.]
+* **Atualmente em:** Estudando novidades na tecnologia
+* **Interesses:** Possuo interesse em desenvolvimento Back-end e criação de algoritmos
+* **Aprendendo:** Java Script e Python.
 
 ---
 
 **Conecte-se:**
-* **LinkedIn:** [Seu link do LinkedIn]
-* **Email:** [ferreiraalexandre996@gmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/alexandresena-ads/
+* **Email:** ferreiraalexandre996@gmail.com
 
 ---
 
