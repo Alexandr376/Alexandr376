@@ -5,8 +5,8 @@
 ---
 
 **Foco:**
-* **Atualmente em:** Estudando novidades na tecnologia
-* **Interesses:** Possuo interesse em desenvolvimento Back-end e criação de algoritmos
+* **Atualmente:** Estudando novidades na tecnologia
+* **Interesses:** Desenvolvimento Back-end e criação de algoritmos
 * **Aprendendo:** Java Script e Python.
 
 ---
